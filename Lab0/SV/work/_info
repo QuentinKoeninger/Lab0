@@ -1,0 +1,70 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/qkoen/Desktop/Course Work/Spring 2023/Digital Logic Design/dldLab0_Spring23/Lab0/SV
+T_opt
+Z1 !s110 1674686062
+VLSUOfG4kd@AikdJKl^fMo3
+04 2 4 work tb fast 0
+=1-ac74b186c324-63d1ae6e-2a0-81b8
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+vsilly
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R1
+!i10b 1
+!s100 <;f4JC@bnOh9LE>nBM1<13
+I_^O;Q]`8<LB;;lRk95<bP0
+S1
+R0
+w1674684859
+8silly.sv
+Fsilly.sv
+!i122 0
+L0 1 7
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.3;73
+r1
+!s85 0
+31
+Z6 !s108 1674686062.000000
+Z7 !s107 silly_tb.sv|silly.sv|
+Z8 !s90 -reportprogress|300|silly.sv|silly_tb.sv|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtb
+R3
+R1
+!i10b 1
+!s100 >^3GO0:W7@52bJ1SM1E>Z0
+I6DbUR>E@V9b4QlLfaO?>K1
+S1
+R0
+w1674686047
+8silly_tb.sv
+Fsilly_tb.sv
+!i122 0
+L0 2 70
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R2
